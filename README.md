@@ -30,8 +30,8 @@ of Science and Technology (KIST- Rwanda) .
 **01/2023- present:** (appointed) Lecturer at the University of Johannesburg (Computer Science department) 
 	
 **09/2022- 1/2023:** Assistant professor at Dakar American University of Science and Technology  (Computer Science department) 
-	**Teaching:** Advanced Machine Learning, Human Computer Interaction, Database management and Problem solving with C++. 
-**Research:** Cyber medical systems: treating Malaria and  Tuberculosis using a central digital system.
+	- **Teaching:** Advanced Machine Learning, Human Computer Interaction, Database management and Problem solving with C++. 
+	- **Research:** Cyber medical systems: treating Malaria and  Tuberculosis using a central digital system.
 
 **09/2020- 04/2022:** Lecturer at UCT (Department of Knowledge and Information Stewardship) Teaching: Masters courses 
 **Research interests:** Data Sensing Models, Information Diffusion, and Knowledge Management, all converging in the field of Human-Centered Artificial Intelligence.
