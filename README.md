@@ -86,6 +86,6 @@ E-logistics: Introduction to Jupyter, Linear Algebra, Logistic Regression Progra
 **Computational skills:** excellent in Python programming (Skitlearn, Keras, Tensorfloa, Numpy, Pandas, Matplotlib, etc.), good  in SQL and some basics in R studio, on either Windows, Linux (my favorite) or
 				 Mac   operating systems.
 **Other skills:** Good in Mathematical and Algorithmic problem solving, skilled in Django framework,  
-                       excellent in Latex editing, a speedy tipper and I am a quick learner. 
+                       excellent in Latex editing, a speedy tipper and I am a quick learner.  
 
 
