@@ -1,12 +1,10 @@
 # Emmanuel Tuyishimire 
 
-**Email:** tuyishimire@aims.ac.za or temmanuel@uwc.ac.za or 
+**Emails:** tuyishimire@aims.ac.za or temmanuel@uwc.ac.za or 
 
 tuyinuel@gmail.com
 
-**Date of birth:** 01/01/1987
 
-**Tel:** +27657029955
 
 ## SUMMARY
 
