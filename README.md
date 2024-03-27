@@ -1,3 +1,9 @@
+|       bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    |[Bio](https://etuyishimire.github.io/Bio)|[Publications](https://etuyishimire.github.io/Publications/)| [CV](https://etuyishimire.github.io/CV/)|
+| -------------------- | --- |--- | --- |
+
+	
+ </table>
+ 
 # Emmanuel Tuyishimire 
 
 **Emails:** tuyishimire@aims.ac.za or temmanuel@uwc.ac.za or 
