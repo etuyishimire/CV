@@ -10,34 +10,34 @@ tuyinuel@gmail.com
 
 ## SUMMARY
 
-Degrees: PhD and  MSc in Computer Science, MSc in Mathematical Sciences, BSc in Mathematics.
+**Degrees:** PhD and  MSc in Computer Science, MSc in Mathematical Sciences, BSc in Mathematics.
 
-Main-Supervisions: 4 masters to completion, 5 masters yet to be completed.
+**Main-Supervisions:** 4 masters to completion, 5 masters yet to be completed.
 
-Co-supervisions: 1 PhD,  3 Masters.
+**Co-supervisions:** 1 PhD,  3 Masters.
 
-Mentor cases: diverse 20+  undergraduate, 3+  masters, 2 PhD (one of them completed).
+**Mentor cases:** diverse 20+  undergraduate, 3+  masters, 2 PhD (one of them completed).
 
-Accredited publications:  6 Journals, 13 Conferences, 6 currently accepted conferences,  2 archived jounals.
+**Accredited publications:**  6 Journals, 13 Conferences, 6 currently accepted conferences,  2 archived jounals.
 
-Skills: Programming (Python, C++, Java, VB, etc), Research, Modeling, Lecturing/Teaching. 
+**Skills:** Programming (Python, C++, Java, VB, etc), Research, Modeling, Lecturing/Teaching. 
 
-History: Motivated and hard working scholar.
+**History:** Motivated and hard working scholar.
 
 ## EDUCATION
 
 **2015-2019:**	Ph.D. degree from University of the Western Cape (UWC), South Africa.
 
-**Specialisation:**	Computer Science.
+	**Specialisation:**	Computer Science.
 
 
 **2013-2014:**      Research master's degree from University of Cape Town (UCT).
 
-**Specialisation:**	Computer Science.
+	**Specialisation:**	Computer Science.
 
 **2012- 2013:**	Master's degree from UCT.
 
-**Specialisation:**	Mathematical Sciences.a
+	**Specialisation:**	Mathematical Sciences.a
 
 **2008-2012:**	Honours's degree in Pure Mathematics at Kigali Institute
 of Science and Technology (KIST- Rwanda).
@@ -124,11 +124,11 @@ Assisting members of my research group (honours, masters and doctoral) in Mathem
 
 **September, 2017:**	New Trainers workshop
 
-**Job:**              Getting trained and practice fundamental techniques of lecturing/moderating.
+	**Job:**              Getting trained and practice fundamental techniques of lecturing/moderating.
 
-**Organiser:**  General Electrict, Johannesburg
+	**Organiser:**  General Electrict, Johannesburg
 
-**Skills:**	 techniques for introducing or strengthening learning materials, managing small or big classes.
+	**Skills:**	 techniques for introducing or strengthening learning materials, managing small or big classes.
 
 
 ## JOURNALS REVIEW
