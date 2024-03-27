@@ -25,8 +25,8 @@ tuyinuel@gmail.com
 ## EDUCATION
 
 **2015-2019:**	Ph.D. degree from University of the Western Cape (UWC), South Africa.
-
-	**Specialisation:**	Computer Science.
+	
+ 	**Specialisation:**	Computer Science.
 
 
 **2013-2014:**      Research master's degree from University of Cape Town (UCT).
